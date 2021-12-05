@@ -9,7 +9,7 @@
   },
   "author": "Tamada",
   "license": "ISC",
-  "homepage": "https://github.com/Nicolooo/tamada-leaderboard-tamada-api#readme",
+  "homepage": "https://github.com/Nicolooo/Leader-APi#readme",
   "dependencies": {
     "json-server": "^0.16.2"
   }
