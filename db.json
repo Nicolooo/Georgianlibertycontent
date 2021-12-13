@@ -1,16 +1,9 @@
 {
-  "leaders": [
+  "positions": [
     {
       "id": 0,
-      "name": "Nikusha Sirbiladze",
-      "place": "#1",
-      "score": 800
-    },
-    {
-      "id": 1,
-      "name": "Nick Khabelashvili",
-      "place": "#2",
-      "score": 799
+      "title": "Social Media Manager",
+      "desc": "#1"
     }
   ]
 }
